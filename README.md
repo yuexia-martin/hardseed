@@ -1,4 +1,4 @@
-<h1 align="center">给不了你梦中情人，至少还有硬盘女神：hardseed</h1>
+
 yangyangwithgnu@yeah.net  
 http://yangyangwithgnu.github.io/  
 2016-02-04 14:53:51
